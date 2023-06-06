@@ -1,5 +1,5 @@
 # Luminaire.ai
-We are a non-profit organization comprised of a small but efficient group of data scientists based in Mexico City. We specialize in providing real-time, cutting-edge socio-economic analysis fueled by a vast array of carefully-curated public data sources.
+We are a non-profit organization comprised of a small but efficient group of data scientists from all around the globe. We specialize in providing real-time, cutting-edge socio-economic analysis fueled by a vast array of carefully-curated public data sources.
 
 Our primary focus is on addressing the most pressing socio-economic challenges of our time. We strive to shed new light on these issues by harnessing terabytes of data from an extensive portfolio of public sources. From here, we employ advanced statistical and computational methodologies while maintaining the highest level of integrity and quality of our sourced data at each stage of our pipeline.
 
